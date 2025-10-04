@@ -29,7 +29,7 @@ Designed a simplified 2–4 player **UNO** simulation using OOP and vectors.
 - Used `<random>` with a fixed seed (1234) for reproducible shuffling.  
 - Each turn updates the state string showing direction, top card, and player hand counts.
 
-## Github link :
+## Github link : https://github.com/sarafaw/Dsa__assignment1
 
 ## Challenges Faced:
 
@@ -59,3 +59,4 @@ Designed a simplified 2–4 player **UNO** simulation using OOP and vectors.
 -Designing the game logic to handle Skip, Reverse, and Draw Two cards properly was challenging.
 -Implementing turn direction (Clockwise vs Counter-clockwise) and player skipping logic took time to get right.
 -Ensuring deterministic output using a fixed random seed (1234) for shuffling helped in debugging and matching the expected output.
+
